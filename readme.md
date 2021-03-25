@@ -14,7 +14,7 @@ Em caso de download do projeto você precisará baixar as dependências:
 </ul>
 
 ```
-yarn dev 
+yarn start
 yarn serve para rodar o json server
 Abrar o projeto em http://localhost:3000/
 ```
