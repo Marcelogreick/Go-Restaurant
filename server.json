@@ -17,11 +17,11 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
-      "image": "https://www.youtube.com/watch?v=FakFqXYp540&t=759s",
-      "name": "sfsf",
-      "price": "fsfsf",
-      "description": "dwd",
-      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Temperado",
+      "price": "10.90",
+      "description": "Tempero especial com muita carne , muito queijo e muito molho.",
+      "available": false,
       "id": 3
     }
   ]
